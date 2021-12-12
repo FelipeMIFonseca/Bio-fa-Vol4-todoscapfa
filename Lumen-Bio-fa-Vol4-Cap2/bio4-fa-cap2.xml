@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  <texto_geral>
+    <titulo_cap_texto>Protozooses</titulo_cap_texto>
+    <imagem>
+      <imagem>&lt;ID001-F001-2020-EM-BIO-2-L1-FA-U1-C2b.png&gt;</imagem>
+    </imagem>
+    <legenda>Doenças negligenciadas são comuns no Brasil.</legenda>
+    <credito>Venicio Ribeiro - Multimeios/Icict/Fiocruz</credito>
+    <texto_geral>
+      <texto_geral>As doenças negligenciadas são aquelas causadas por agentes infecciosos ou parasitas e são consideradas endêmicas em populações de baixa renda. Essas enfermidades também apresentam indicadores inaceitáveis e investimentos reduzidos em pesquisas, [em] produção de medicamentos e em seu controle. As doenças tropicais, como a malária, a doença de Chagas, a doença do sono (tripanossomíase humana africana, THA), a leishmaniose visceral (LV) [...] continuam sendo algumas das principais causas de morbidade e mortalidade em todo o mundo. Estas enfermidades, conhecidas como doenças negligenciadas, incapacitam ou matam milhões [...]. As doenças negligenciadas são um grupo de doenças tropicais endêmicas, especialmente entre as populações pobres da África, Ásia e América Latina. [...] As medidas preventivas e o tratamento para algumas dessas moléstias são conhecidos, mas não são disponíveis universalmente nas áreas mais pobres do mundo.</texto_geral>
+    </texto_geral>
+    <legenda>
+      VALVERDE, Ricardo. &#8220;Doenças negligenciadas&#8221;. Agência Fiocruz de Notícias. Disponível em: &lt;https://agencia.fiocruz.br/
+      <credito>doen%C3%A7as-negligenciadas&gt;. Acesso em: 29 jul. 2019. </credito>
+    </legenda>
+    <texto_bullets>&#8226;	Quais são as medidas profiláticas mais comuns para o combate de algumas protozooses? &#8226;	Por que o clima tropical contribui na incidência de protozooses transmitidas por vetores? &#8226;	De que modo se relacionam o ciclo de vida dos protozoários e os sintomas característicos das doenças causadas por esses microrganismos?</texto_bullets>
+    <texto_geral>Neste capítulo serão abordadas as habilidades EM13CNT202 e EM13CNT310. </texto_geral>
+    <titulo1>Parasitologia</titulo1>
+    <texto_geral>A área da Biologia denominada Parasitologia, hoje bastante desenvolvida, tem seus primeiros registros datados do século XVII, quando o naturalista holandês Anton van Leeuwenhoek (1632-1723), com um microscópio, fez as primeiras observações de minúsculos organismos presentes em fezes humanas. O foco principal da Parasitologia é identificar e descrever comportamentos parasitários, isto é, visa estudar o tipo de interação ecológica em que organismos (parasitas ou agentes etiológicos) vivem em associação com outros seres vivos (hospedeiros), dos quais obtêm as condições ideais para sua sobrevivência. Os parasitas, no entanto, causam prejuízos (doenças) ao hospedeiro.  Os hospedeiros podem ser de dois tipos:  </texto_geral>
+    <texto_bullets>&#8226;	hospedeiro definitivo: organismo em que ocorre a reprodução sexuada do parasita, garantindo a variabilidade genética de seus  descendentes; &#8226;	hospedeiro intermediário: organismo em que o parasita se reproduz de forma assexuada, gerando descendentes geneticamente idênticos. </texto_bullets>
+    <texto_geral>Os ciclos de vida de parasitas que apresentam apenas um tipo de hospedeiro são denominados monóxenos, sendo o parasita autoico, enquanto aqueles em que há a participação de hospedeiros intermediários são heteróxenos, e o parasita é heteroico. O organismo causador da doença é também chamado de agente etiológico, enquanto, quando presentes, os organismos responsáveis pela transmissão do parasita são denominados agentes transmissores ou vetores.  Alguns seres vivos, chamados de reservatórios, são capazes de abrigar parasitas, mas não ficam necessariamente doentes.   </texto_geral>
+    <titulo1>Protozooses</titulo1>
+    <texto_geral>As protozooses são doenças parasitárias causadas por protozoários &#8211; organismos eucariontes, unicelulares, heterotróficos.</texto_geral>
+    <titulo3>Amebíase</titulo3>
+    <texto_geral>O agente etiológico da amebíase é a espécie Entamoeba histolytica, protozoário que se locomove pela emissão de pseudópodes. O ciclo biológico desses organismos apresenta dois estágios diferentes e bem definidos: o trofozoíto e o cisto. </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID003-F002-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Cisto de E. histolytica (seta). Tamanho médio (diâmetro): 13 µm.</legenda>
+    <credito>Imagem cortesia do DPDx, Centers for Disease  Control and Prevention (www.cdc.gov/dpdx/ amebiasis/index.html)</credito>
+    <imagem>
+      <exercicios_linhas>&lt;ID004-F003-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Trofozoíto de E. histolytica. Tamanho médio (comprimento): 30 µm.</legenda>
+    Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/dpdx/amebiasis/index.html)
+    <texto_geral>Os trofozoítos são a forma ativa dos protozoários, isto é, capazes de se alimentar e de se reproduzir; apresentam diferentes formatos e tamanhos. Já os cistos têm formato esférico e diminuto e são formas de</texto_geral>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>Alguns termos são utilizados em relação ao número de casos, ou seja, a incidência de determinada doença em uma região, em um dado período de tempo: </boxe_17_texto>
+      <texto_bullets>&#8226;	Surto: aumento repentino do número de casos de determinada doença em níveis acima do esperado.  &#8226;	Epidemia: elevado  número de casos de  determinada doença em um dado local e período. &#8226;	Pandemia: situação em que o aumento do número de casos de determinada doença ocorre simultaneamente em diferentes regiões do planeta, inclusive em diferentes continentes.</texto_bullets>
+    </boxe_17>
+    <texto_geral>resistência do parasita, isto é, estão protegidos por um revestimento de quitina e polissacarídeos, que confere rigidez à estrutura e possibilita a sobrevivência em condições inóspitas.</texto_geral>
+    <titulo3>Transmissão e sintomas </titulo3>
+    <texto_geral>O ser humano é o reservatório desse parasita, mas, quando ingere água ou alimentos contaminados com cistos maduros de E. histolytica, a protozoose pode se instalar. Veja no esquema a seguir as formas de transmissão invasiva e não invasiva da amebíase.</texto_geral>
+    <imagem>
+      <Story>
+        <exercicios_linhas>&lt;ID005-I001-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+      </Story>
+    </imagem>
+    <legenda> Representação esquemática do ciclo biológico da Entamoeba histolytica, protozoário que causa a amebíase.</legenda>
+    <texto_geral>Os sintomas, quando presentes, costumam ser cólica, diarreia e fezes com sangue. Em casos graves, pode haver problemas hepáticos.</texto_geral>
+    <titulo3>Giardíase</titulo3>
+    <texto_geral>O agente etiológico da giardíase é o protozoário flagelado Giardia  lamblia. Assim como as amebas, a giárdia apresenta dois estágios de vida &#8211;  cistos e trofozoíto &#8211; e um ciclo monóxeno. Os cistos são pequenas estruturas esféricas, dotadas de quatro núcleos, que podem ser eliminadas em grande quantidade, de 300 milhões a 14 bilhões por dia, capazes de resistir por até dois meses no ambiente externo. Sobrevivem em água doce e fria e têm grande tolerância ao aquecimento, à desidratação e até a determinados processos de cloração da água. Os trofozoítos, por sua vez, apresentam formato de pera e duas estruturas nucleares. Sua locomoção ocorre pela presença de cerca de oito flagelos. Na porção ventral existe um disco adesivo, semelhante a uma ventosa, responsável pela adesão do parasita à mucosa intestinal do hospedeiro.</texto_geral>
+    <titulo4>Transmissão e sintomas</titulo4>
+    <texto_geral>A infecção ocorre por meio da ingestão de cistos &#8211; ciclo fecal-oral &#8211;, que iniciam o desencistamento durante a passagem pelo meio ácido do estômago, que se completa no duodeno.  </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID006-F004-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Cisto de G. lamblia (seta). Tamanho médio (comprimento): 15 µm. Image</legenda>
+    <texto_geral>m cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/dpdx/giardiasis/index.html) Em seguida, os trofozoítos iniciam a colonização do intestino delgado. Novos parasitas são gerados pela reprodução assexuada dos trofozoítos. Quando há uma alta carga parasitária, a mucosa intestinal pode ficar irritada e produz grande quantidade de muco. Do mesmo modo, podem ocorrer alterações na produção de enzimas e prejuízos na absorção de nutrientes. Nesse estágio, os trofozoítos podem ser eliminados pelas fezes, porém não sobrevivem no ambiente. No intestino, a alteração do pH e a ação de sais biliares estimulam os trofozoítos a produzirem e secretarem uma membrana cística resistente, composta de quitina, que possibilita a formação de cistos. O processo patológico depende da quantidade de cistos ingeridos e de trofozoítos que colonizaram o intestino. Na maioria das vezes, trata-se de um quadro assintomático ou com leves manifestações, tais como fezes volumosas e fétidas, diarreia, dores abdominais, náuseas e flatulência. Em casos extremos e menos frequentes, o paciente pode desenvolver a síndrome da má absorção intestinal, associada à anemia. </texto_geral>
+    <titulo3>Tratamento e prevenção</titulo3>
+    <texto_geral>Tanto a amebíase quanto a giardíase contam com o mesmo tipo de tratamento e prevenção. As medidas profiláticas mais eficientes para se evitar a contaminação por esses protozoários são: </texto_geral>
+    <texto_bullets>&#8226;	condições adequadas de saneamento básico;  &#8226;	higienização dos alimentos &#8211; a lavagem cautelosa dos alimentos e a fervura da água evitam que os cistos se mantenham viáveis;  &#8226;	higiene pessoal &#8211; principalmente lavar as mãos antes das refeições e após usar o banheiro.</texto_bullets>
+    <texto_geral>Em alguns casos, é recomendável que o indivíduo acometido seja afastado de atividades que envolvam a manipulação de alimentos. </texto_geral>
+    <titulo3>Toxoplasmose</titulo3>
+    <texto_geral>Com ampla distribuição geográfica, a toxoplasmose é considerada a mais cosmopolita das doenças que afetam animais e que são naturalmente transmitidas por eles aos humanos. Portanto, essa protozoose pode ser considerada uma zoonose. O agente etiológico dessa parasitose é o protozoário apicomplexo  Toxoplasma gondii, que, além de não apresentar estruturas especializadas de locomoção, é um parasita intracelular obrigatório. Diferentemente dos protozoários causadores das protozooses apresentadas até agora, o  T. gondii conta com três estágios de vida: taquizoíta, bradizoíta e esporozoíta</texto_geral>
+    <texto_vocabulario>Cosmopolita: ocorrência da doença em centros urbanos. Zoonose: doença que acomete animais não humanos e que também pode ser transmitida aos seres humanos.</texto_vocabulario>
+    <imagem>
+      <Story>
+        <exercicios_linhas>&lt;ID007-F005-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+      </Story>
+      <fonte>Trofozoítos de G. lamblia. Tamanho médio (comprimento): 20 µm. Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/dpdx/giardiasis/index.html) </fonte>
+      <Story>
+        <exercicios_linhas>&lt;ID009-F007-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+      </Story>
+      <fonte>A taquizoíta é a forma de rápida multiplicação presente no início da infecção. Esta forma de vida é responsável pelas manifestações clínicas da parasitose. Tamanho (comprimento): 4-8 µm. Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/dpdx/toxoplasmosis/index.html) </fonte>
+      <Story>
+        <exercicios_linhas>&lt;ID010-F008-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+      </Story>
+      <fonte>A bradizoíta é a forma de multiplicação lenta originada a partir da diferenciação das taquizoítas e responsável pela formação de cistos teciduais, caracterizando estágios mais avançados da parasitose. Tamanho: 5-50 µm. Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/dpdx/toxoplasmosis/index.html) </fonte>
+      <Story>
+        <exercicios_linhas>&lt;ID011-F009-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+      </Story>
+    </imagem>
+    <fonte>A esporozoíta é a forma que se desenvolve dentro dos oocistos gerados a partir da reprodução sexuada do protozoário e eliminados pelas fezes do hospedeiro definitivo. Tamanho: 10-12 µm. </fonte>
+    Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/dpdx/toxoplasmosis/index.html)
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto> Oocisto é o tipo de estrutura reprodutiva a partir da qual novas células são produzidas assexuadamente.</boxe_17_texto>
+    </boxe_17>
+    <texto_geral>O ciclo de vida facultativamente heteróxeno do protozoário possibilita que os organismos infectados funcionem como hospedeiros intermediários ou definitivos. Apenas os membros na família Felidae, à qual pertencem, por exemplo, os gatos domésticos, servem como hospedeiros definitivos do T. gondii, os quais são eliminados pelas fezes e contaminam o ambiente. Acredita-se que os felinos sejam contaminados devido ao hábito carnívoro, pois ingerem os cistos do parasita nos tecidos das presas e atuam como reservatórios da doença.</texto_geral>
+    <titulo3>Transmissão e sintomas </titulo3>
+    <texto_geral>Veja no esquema a seguir como ocorre a contaminação e quais as etapas do desenvolvimento do transmissor da toxoplasmose.</texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;cistos.png&gt;</exercicios_linhas>
+    </imagem>
+    <fonte>Fonte: Principais doenças causadas por protozoários. Suzana Segura Muñoz &amp; Ana Paula Morais  Fernandes. Licenciatura em Ciências  - USP/Univesp - Módulo 5. Disponível em:  &lt;https://midia.atp.usp.br/plc/plc0501/impressos/plc0501_06.pdf&gt;.</fonte>
+    <credito>Representação esquemática do ciclo de contaminação da toxoplasmose. </credito>
+    <imagem>
+      <exercicios_linhas>&lt;ID012-F010-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Representação esquemática do ciclo biológico do T. gondii, protozoário que provoca a toxoplasmose.</legenda>
+    LadyofHats/Wikimedia Commons
+    <texto_geral>Na maioria das vezes, a toxoplasmose é assintomática. Quando presentes, os sintomas incluem febre, dor de cabeça e dor muscular. </texto_geral>
+    <titulo2>Tratamento e prevenção</titulo2>
+    <texto_geral>A toxoplasmose, na forma congênita, é mais grave. Caso a infecção ocorra nos primeiros meses de gestação, o feto pode desenvolver alguma má-formação ou, então, ser abortado. A transmissão vertical é a forma de transmissão da toxoplasmose entre mãe e feto, que se dá por meio da passagem de taquizoítos pela placenta. O tratamento para a toxoplasmose é feito com medicamentos antiparasitários, sob prescrição médica. Para prevenir a doença, recomenda-se:</texto_geral>
+    <texto_bullets>&#8226;	higiene pessoal &#8211; lavar bem as mãos antes das refeições e usar luvas em atividades de jardinagem;  &#8226;	higiene do ambiente &#8211; limpeza diária dos locais usados pelos animais domésticos e remoção adequada das fezes; gestantes devem evitar o contato com as fezes desses animais;  &#8226;	evitar a ingestão de carnes cruas ou malpassadas, pois podem estar contaminadas por cistos ou oocistos.</texto_bullets>
+    <titulo2>Malária </titulo2>
+    <texto_geral>Reconhecida como um grave problema de saúde no mundo, a malária é uma doença de alto potencial endêmico e que atinge, principalmente, países das regiões tropicais e subtropicais de todo o globo. No Brasil, a região amazônica é considerada área endêmica, com a grande maioria dos casos autóctones. Também conhecida como maleita, febre terçã ou febre quartã, a malária tem como agente etiológico protozoários apicomplexos do gênero Plasmodium. Quatro espécies afetam humanos: Plasmodium  vivax, Plasmodium falciparum, Plasmodium malarie e Plasmodium ovale. Enquanto as três primeiras são as variedades mais comuns no território brasileiro, o P. ovale ocorre apenas na África. De maneira geral, os plasmódios apresentam três formas evolutivas durante seu ciclo biológico: esporozoítos &#8211; forma infectante que atinge a corrente sanguínea do ser humano, têm afinidade por células do fígado, nas quais, por esquizogonia, formam esquizontes; merozoítos &#8211; são liberados dos esquizontes e invadem as hemácias do hospedeiro; gametócitos &#8211; derivados da diferenciação de parte dos merozoítos, interagem apenas com as células do sistema digestório do agente transmissor.</texto_geral>
+    <titulo3>Transmissão e sintomas</titulo3>
+    <texto_geral>No ciclo de vida do plasmódio podem ser observadas reprodução assexuada e sexuada, cada uma ocorrendo em um hospedeiro específico.</texto_geral>
+    <titulo3>Ciclo do Plasmodium no mosquito</titulo3>
+    <texto_geral>A reprodução sexuada ocorre no trato digestório de fêmeas de mosquitos do gênero Anopheles, vetores da doença. Esses insetos são popularmente conhecidos como &#8220;mosquitos-prego&#8221; por se posicionarem de modo perpendicular ao pousarem. As fêmeas são hematófagas porque obtêm nutrientes do sangue humano para a postura e desenvolvimento de seus ovos.  Ao picar o ser humano contaminado com a malária, a fêmea do mosquito Anopheles adquire as formas de gametócitos dos plasmódios presentes no sangue do indivíduo. No estômago do mosquito, ocorre a diferenciação dessas células em gametas, que se fundem, gerando um zigoto móvel que migra para o intestino do inseto, onde o oocisto é formado.  No interior do oocisto, ocorre um processo chamado esporogonia, no qual se formam os esporos que se desenvolverão em esporozoítos. Os oocistos se rompem liberando os esporozoítos no sistema circulatório do inseto e se instalam nas glândulas salivares do mosquito que, ao picar o ser humano, libera as formas infectantes do protozoário</texto_geral>
+    .  Esquizonte (à esquerda da imagem) e trofozoíto (à direita da imagem) de  P. falciparum. Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/dpdx/malaria/index.html)
+    <texto_vocabulario>Autóctone: sinônimo de &#8220;natural da região&#8221;. No âmbito da medicina, casos autóctones são aqueles em que os indivíduos se contaminaram na própria região em que vivem. Esquizogonia: processo de divisão em que o organismo sofre fissão múltipla para produzir muitas células-filhas. Esquizonte: célula resultante do processo de esquizogonia.</texto_vocabulario>
+    <imagem>
+      <exercicios_linhas>&lt;ID015-F013-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Fêmea do mosquito do gênero Anopheles, sobre a pele de um ser humano. Tamanho médio (comprimento): 6 mm.</legenda>
+    Amir Ridhwan/Shutterstock.com
+    <imagem>
+      <exercicios_linhas>&lt;ID016-I002-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Representação esquemática do ciclo do Plasmodium no mosquito.</legenda>
+    <titulo4>Ciclo do Plasmodium no ser humano</titulo4>
+    <texto_geral>Veja no esquema a seguir como ocorre a contaminação e quais as etapas do desenvolvimento do transmissor da malária no ser humano.</texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID017-I003-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <fonte>Fonte: Principais doenças causadas por protozoários. Suzana Segura Muñoz &amp; Ana Paula Morais Fernandes. Licenciatura em Ciências - USP/Univesp - Módulo 5.  Disponível em: &lt;https://midia.atp.usp.br/plc/plc0501/impressos/plc0501_06.pdf&gt;. </fonte>
+    <credito>Representação esquemática do ciclo biológico do Plasmodium, protozoário que causa a malária.</credito>
+    <texto_geral>Os acessos febris característicos da malária são decorrentes da hemozoína, um pigmento malárico originado pela degradação de hemoglobina liberada na ruptura das hemácias. Além da picada do mosquito, a malária também pode ser transmitida por meio do contato direto com sangue contaminado, como em transfusões sanguíneas ou transplantes de órgãos, e por transmissão vertical, ou seja, por meio da placenta da mãe para o feto. Quando tratada logo no início, as chances de complicações diminuem significativamente.  A malária no ser humano apresenta sintomas muito caraterísticos, tais como quadros de ciclos febris e calafrios. O intervalo entre as manifestações clínicas, a gravidade e os casos de óbito decorrentes da doença dependem, entre outros fatores, da espécie infectante de plasmódio. A malária gerada da infecção por P. falciparum caracteriza-se por uma febre terçã maligna, isto é, o ciclo eritrocítico completa-se a cada 48 horas, e a febre decorrente da ruptura das hemácias geralmente é alta. Essa espécie de plasmódio é responsável por cerca de 95% das mortes de indivíduos acometidos por malária. Já a doença ocasionada pelo P. vivax é mais branda, conhecida apenas como febre terçã, isto é, ciclo eritrocítico a cada 48 horas, porém, benigna. No entanto, após o indivíduo estar curado da malária causada pelo P. vivax, há a possibilidade de a doença retornar em consequência da reativação de formas latentes &#8211; hipnozoítos &#8211; mantidas nas células do fígado. Diferentemente das outras espécies, o P. malarie ocasiona quadros febris a cada 72 horas, caracterizados pela febre quartã que, assim como a ocasionada pelo P. vivax, é considerada benigna.</texto_geral>
+    <titulo3>Tratamento e prevenção</titulo3>
+    <texto_geral>Na região amazônica, a de maior registro de malária no território brasileiro, o combate ao vetor tem se mostrado uma medida inviável, já que o mosquito é silvestre e pode picar tanto humanos quanto outros animais, dentro ou fora do ambiente doméstico. As medidas profiláticas mais recomendadas são o uso de repelentes, ainda que com algumas ressalvas, e o tratamento dos doentes para controlar a progressão da protozoose.</texto_geral>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>Os dois tipos de febre que podem ocorrer em pacientes com malária são classificados de acordo com os intervalos de seus picos: Febre terçã: um dia com febre, dois dias sem febre. Febre quartã: um dia com febre, três dias sem febre.</boxe_17_texto>
+    </boxe_17>
+    <secao_01>
+      <secao_01_titulo1>Questão resolvida</secao_01_titulo1>
+      <exercicio_enunciado>1	Enem 2016 A sombra do cedro vem se encostar no cocho. Primo Ribeiro levantou os ombros; começa a tremer. Com muito atraso. Mas ele tem no baço duas colmeias de bichinhos maldosos, que não se misturam, soltando enxames no sangue em dias alternados. E assim nunca precisa de passar um dia sem tremer.  </exercicio_enunciado>
+      <secao_01_exercicio>
+        ROSA, J. G.
+        <caracter_italico>Sagarana</caracter_italico>
+        . Rio de Janeiro: Nova Fronteira, 1984.  O texto de João Guimarães Rosa descreve as manifestações das crises paroxísticas da malária em seu personagem. Essas se caracterizam por febre alta, calafrios, sudorese intensa e tremores, com intervalos de 48h ou 72h, dependendo da espécie de Plasmodium.
+      </secao_01_exercicio>
+      <item_lista>Essas crises periódicas ocorrem em razão da a)	lise das hemácias, liberando merozoítos e substâncias denominadas hemozoínas.  b)	invasão das hemácias por merozoítos com maturação até a forma esquizonte.  c)	reprodução assexuada dos esporozoítos no fígado do indivíduo infectado.  d)	liberação de merozoítos dos hepatócitos para a corrente sanguínea.  e)	formação de gametócitos dentro das hemácias. </item_lista>
+      <exercicio_resolvido>Resolução: Alternativa: A Os sintomas da malária são ocasionados pela ruptura das hemácias decorrentes do estágio em que ocorre a esquizogonia eritrocítica. As hemácias invadidas por merozoítos se rompem para liberar essas formas do Plasmodium no sistema circulatório, porém, em conjunto com os merozoítos, também é liberado um pigmento malárico: a hemozoína que resulta da degradação de hemoglobina.</exercicio_resolvido>
+    </secao_01>
+    <titulo1>Doença de Chagas</titulo1>
+    <texto_geral>A doença de Chagas, também conhecida como tripanossomíase americana, é endêmica em 21 países da América Latina e afeta entre 16 e  18 milhões de pessoas nessas regiões. Aproximadamente 100 milhões de indivíduos estão expostos à infecção. Todos os aspectos da parasitose foram descobertos pelo médico e pesquisador Carlos Chagas, daí o nome doença de Chagas. Ao descobrir o protozoário flagelado que é o agente etiológico da doença, Carlos Chagas o nomeou Trypanosoma cruzi, em homenagem ao também médico sanitarista Oswaldo Cruz. O T. cruzi apresenta três formas evolutivas bem definidas durante seu ciclo biológico:  </texto_geral>
+    <texto_bullets>&#8226;	Tripomastigota: forma dotada de um flagelo que se estende por toda a sua estrutura, é altamente infectante e encontrada na porção posterior do intestino do agente transmissor e também no sangue de vertebrados infectados. &#8226;	Amastigota: estruturalmente arredondada, é a forma encontrada no interior de células de hospedeiros infectados. &#8226;	Epimastigota: estruturalmente, assemelha-se à forma tripomastigota, entretanto só é encontrada no tubo digestório do agente transmissor.</texto_bullets>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>Além da tripanossomíase americana, existe a tripanossomíase africana ou doença do sono. O Trypanosoma brucei é transmitido por meio de insetos do gênero Glossina, conhecidos como moscas tsé-tsé. A doença pode atingir os sistemas nervoso e endócrino, causa distúrbios sensoriais e de coordenação motora, além de interferir no controle do ritmo circadiano, o que provoca distúrbios no sono, ou seja, a pessoa sente dificuldades para dormir durante a noite e dorme durante o dia.</boxe_17_texto>
+    </boxe_17>
+    <imagem>
+      <exercicios_linhas>&lt;ID022-F017-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Forma tripomastigota em tecido sanguíneo, vista em microscopia óptica. Tamanho (comprimento): 12 a 30 µm.</legenda>
+    Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/ dpdx/trypanosomiasisamerican/index.html)
+    <imagem>
+      <exercicios_linhas>&lt;ID025-F020-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Formas amastigotas em tecido cardíaco, vistas em microscopia óptica. Tamanho: 4 µm.</legenda>
+    Imagem cortesia do DPDx, Centers for Disease Control and Prevention (www.cdc.gov/ dpdx/trypanosomiasisamerican/index.html)
+    <imagem>
+      <exercicios_linhas>&lt;ID028-F023-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Formas epimastigotas, vistas em microscopia óptica. Tamanho (comprimento): 9-15 µm.</legenda>
+    Luis M. de la Maza, Ph.D. M.D./Phototake, Inc./Glow Images
+    <imagem>
+      <exercicios_linhas>&lt;ID030-F025-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Triatoma infestans, uma das espécies transmissoras do Trypanosoma cruzi. Tamanho médio (comprimento): 3 cm.</legenda>
+    Marcelo de Campos Pereira/Instituto de Ciências Biomédicas da USP
+    <titulo2>Transmissão e sintomas</titulo2>
+    <texto_geral>A doença de Chagas tem como agente transmissor insetos popularmente conhecidos por &#8220;barbeiro&#8221; ou &#8220;chupança&#8221; e, comumente, encontrados nas frestas de casas de pau a pique. Entre os insetos transmissores, duas espécies são de grande destaque: a Triatoma infestans e a Triatoma brasiliensis, por causa de sua ampla distribuição, mecanismos eficientes de alimentação e ciclos biológicos rápidos.  Outros mecanismos de transmissão do T. cruzi já foram identificados, tais como transfusões sanguíneas, transmissão vertical, acidentes laboratoriais e ingestão de cana-de-açúcar e açaí com fragmentos de barbeiros contaminados; consequentemente, os protozoários foram liberados nos produtos. Existem três formas de manifestação da doença de Chagas, que podem ser classificadas como: aguda, indeterminada e crônica. Durante a fase aguda, o indivíduo pode apresentar algum sinal de porta de entrada aparente, conhecidos como Sinal de Romaña e Chagoma de inoculação, e manifestações como febre e mal-estar. </texto_geral>
+    <texto_vocabulario>Sinal de Romaña: sinal inflamatório em uma das pálpebras que ocorre quando há contaminação do parasita na mucosa ocular. Chagoma de inoculação: reação inflamatória aparente no local da penetração do parasita que pode persistir por até oito semanas.</texto_vocabulario>
+    <texto_geral>Na fase indeterminada, a infecção é assintomática e pode nunca se evidenciar clinicamente ou se manifestar de 10 a 15 anos após a infecção inicial. Na fase crônica, as ocorrências clínicas mais comuns são: </texto_geral>
+    <texto_bullets>&#8226;	no coração &#8211; devido à multiplicação da forma amastigota nas células do coração, a musculatura cardíaca é danificada, o que causa o aumento do órgão (cardiomegalia); o indivíduo pode desenvolver síndrome de insuficiência cardíaca, o que pode causar arritmias graves e até morte súbita;  &#8226;	no trato digestório &#8211; também por consequência da multiplicação dos amastigotas, a musculatura do trato digestório fica comprometida e a motilidade é alterada, o que afeta a deglutição e a evacuação. </texto_bullets>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID042-I005-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <legenda>Representação esquemática do ciclo biológico do Trypanosoma cruzi.</legenda>
+    <fonte>Fonte: Principais doenças causadas por protozoários. Suzana Segura Muñoz &amp; Ana Paula Morais Fernandes. Licenciatura em Ciências  &#8211; USP/Univesp - Módulo 5. Disponível em: &lt;https://midia.atp.usp.br/plc/plc0501/impressos/plc0501_06.pdf&gt;.</fonte>
+    <boxe_03>
+      <boxe_03_titulo1>
+        <boxe_03_titulo1>Discussão em sala</boxe_03_titulo1>
+      </boxe_03_titulo1>
+      <boxe_03_texto>Interação entre os insetos barbeiros e o ser humano O T. cruzi e seus vetores parecem estar há muito tempo nos continentes. Entretanto, a forma endêmica da doença humana é relativamente recente, datada do aparecimento dos ciclos de agricultura e pecuária. Nos ciclos agropecuários, muitas áreas foram desmatadas, o que reduziu o hábitat de animais silvestres que eram fonte de alimento para os barbeiros. A busca por alimento somada a mutações genéticas ocorridas ao longo do tempo possibilitaram a interação dos barbeiros com o ser humano, cujo sangue passou a ser fonte de alimento para os insetos iniciando, assim, o ciclo de transmissão do T. cruzi.</boxe_03_texto>
+      <texto_bullets>&#8226;	Por que as espécies de barbeiros adaptadas a domicílios parecem se restringir apenas a áreas desmatadas?</texto_bullets>
+    </boxe_03>
+    <titulo2>Tratamento e prevenção</titulo2>
+    <texto_geral>O tratamento para a doença de Chagas depende da fase em que ocorre o diagnóstico. Não há vacina para prevenir a contaminação.  Como a transmissão está diretamente relacionada às condições habitacionais, as medidas de profilaxia mais comuns são: </texto_geral>
+    <texto_bullets>&#8226;	conservação das casas &#8211; estimular a construção de casas de alvenaria em substituição a casas de pau a pique;  &#8226;	combate ao vetor &#8211; uso de inseticidas e repelentes, bem como o emprego de telas em portas e janelas para evitar a entrada do barbeiro nas residências.</texto_bullets>
+    <titulo3>Leishmaniose</titulo3>
+    <texto_geral>O agente causador da leishmaniose é encontrado em cerca de  88 países situados próximos às regiões tropicais e subtropicais do globo. Há diferentes formas de manifestação dessa protozoose, como a cutânea, conhecida como leishmaniose tegumentar americana (LTA), e a leishmaniose visceral (LV), mais grave, cuja incidência tem aumentado no Brasil, sendo recorrente na Índia, no Nepal e em Bangladesh.  As diferentes leishmanioses são causadas por espécies distintas de protozoários pertencentes ao gênero Leishmania, que são transmitidas entre animais silvestres ou destes para o ser humano por meio da picada das fêmeas dos mosquitos hematófagos Phlebotominae pertencentes ao gênero Lutzomyia, estes conhecidos como flebótomos, mosquito-palha, birigui, cangalha ou tatuquira. A leishmaniose tegumentar americana (LTA), também conhecida como úlcera de Bauru, é endêmica no Brasil e está presente em todos os estados. O agente etiológico da LTA é a espécie Leishmania brasiliensis. A leishmaniose visceral (LV) ou calazar, no Brasil, tem como agente etiológico a Leishmania chagasi. Na Índia, o agente causador da LV é a Leishmania donavani. Trata-se da forma mais grave de leishmaniose, que causa aumento do fígado e baço e quadros de febre alta, quase sempre evoluindo para óbito em crianças. A Leishmania apresenta duas formas de vida principais: </texto_geral>
+    <texto_bullets>&#8226;	Amastigota: desprovida de estrutura flagelar e encontrada em tecidos dos hospedeiros vertebra</texto_bullets>
+    dos infectados.
+    <imagem>
+      <exercicios_linhas>&lt;ID033-F028-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Mosquitos do gênero Lutzomyia são agentes transmissores da leishmaniose. Tamanho médio (comprimento): 3 mm.</legenda>
+    Ray Wilson/Alamy/Fotoarena
+    <imagem>
+      <exercicios_linhas>&lt;ID024-F019-2020-EM-BIO-2-L1-FA-U1-C2_ajuste.png&gt;</exercicios_linhas>
+    </imagem>
+    &#169; 2013 Teixeira et al/Public Library of Science
+    <imagem>
+      <exercicios_linhas>&lt;ID035-F030-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    Zephyris (CC-BY-SA-3.0)/Wikimedia Commons
+    <legenda>Forma amastigota de Leishmania. Tamanho médio: 5 mm. A. Representação esquemática das estruturas da forma amastigota; B. Forma amastigota. Eletromicrografia de varredura.</legenda>
+    <texto_bullets>&#8226;	Promastigota: dotada de flagelo. Pode ser diferenciada em procíclico ou metacíclico, conforme estão presentes no vetor ou no hospedeiro vertebrado, respectivamente</texto_bullets>
+    <imagem>
+      <exercicios_linhas>&lt;ID021-F016-2020-EM-BIO-2-L1-FA-U1-C2_ajuste.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>&#169; 2013 Teixeira et al/Public Library of Science</credito>
+    <imagem>
+      <exercicios_linhas>&lt;ID037-F032-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>Zephyris (CC-BY-SA-3.0)/Wikimedia Commons</credito>
+    <legenda>Forma promastigota de Leishmania. Tamanho (comprimento): 16-40 μm. A. Representação esquemática das estruturas do promastigota; B. Forma promastigota. Eletromicrografia de varredura.</legenda>
+    <titulo3>Transmissão e sintomas</titulo3>
+    <texto_geral>Após a picada do flebótomo fêmea, as formas promastigotas metacíclicas entram na circulação sanguínea e, em seguida, são fagocitadas por células de defesa presentes no sangue dos vertebrados. Ainda nessas células, os promastigotas perdem o flagelo e assumem a forma amastigota, que se multiplica assexuadamente, aumentando o número de indivíduos e rompendo a célula. Os novos amastigotas são liberados na corrente sanguínea e, então, ingeridos pelo vetor. No intestino, modificam-se em promastigotas cíclicos e se multiplicam assexuadamente, causando alterações no tubo digestório dos mosquitos, que acabam por transferir as novas formas promastigotas ao alimentar-se de sangue. Veja no esquema a seguir como ocorre a contaminação e quais as etapas do desenvolvimento do transmissor da leishmaniose tegumentar americana (LTA) e leishmaniose visceral (LV).</texto_geral>
+    <imagem>
+      <Story>
+        <exercicios_linhas>&lt;ID038-F033-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+      </Story>
+    </imagem>
+    <legenda>Representação esquemática do ciclo biológico da Leishmania, protozoário que causa a leishmaniose tegumentar americana e a leishmaniose visceral.</legenda>
+    <credito>LadyofHats Mariana Ruiz Villarreal/Wikimedia Commons</credito>
+    <texto_geral>Além do ser humano, infecções por Leishmania já foram descritas em diversos animais silvestres e domésticos, como cães, gatos e cavalos. Acredita-se que são reservatórios naturais do protozoário apenas algumas espécies de roedores e marsupiais. O papel dos animais domésticos como reservatórios é ainda indefinido. Em alguns casos, são considerados hospedeiros acidentais da doença. Os sintomas da doença estão caracterizados quando há o surgimento de feridas e posterior formação de úlceras que, quando não tratadas, podem evoluir e destruir tecidos da cavidade nasal, laringe e faringe, ocasionando deformações no indivíduo acometido.</texto_geral>
+    <titulo3>Tratamento e prevenção</titulo3>
+    <texto_geral>
+      <texto_geral>É difícil adotar medidas profiláticas para o controle dos casos de leishmaniose diante da impossibilidade de combater os flebótomos ou mesmo os reservatórios do protozoário. No Brasil, está disponível uma vacina contra leishmaniose visceral canina que tem se mostrado eficiente no controle da doença em cães. Apesar disso, ainda não há estudos que comprovem a eficiência da vacina em casos de leishmaniose visceral humana. O ideal é que haja limpezas periódicas em quintais e abrigos de animais domésticos a fim de evitar a instalação e a reprodução de insetos vetores, bem como colocar coleiras repelentes nos animais domésticos, principalmente em locais de incidência elevada da protozoose. Embora esteja disponível um tratamento para a leishmaniose visceral, os medicamentos não eliminam por co</texto_geral>
+      mpleto o protozoário nos indivíduos.
+    </texto_geral>
+    <boxe_20>
+      <boxe_20_titulo>Aplicando conhecimentos</boxe_20_titulo>
+      <secao_15_titulo1></secao_15_titulo1>
+      <exercicio_enunciado>1	O que é a giardíase? Qual é o agente causador dessa doença? 2	As amebas podem ser organismos de vida livre ou parasitas. Cite um exemplo de ameba parasita e uma doença que ela causa. 3	O que causa acessos de febre nas pessoas contaminadas por protozoários do gênero Plasmodium? 4	Foi distribuída uma cartilha com indicação de cuidados para evitar a contaminação por protozoários. Na cartilha, havia as seguintes informações: </exercicio_enunciado>
+      <exercicio_item_romano>I.	Utilizar telas nas janelas e portas. II.	Lavar bem os alimentos. III.	Utilizar inseticidas. IV.	Substituir construções de pau a pique por construções de alvenaria. V.	Lavar bem as mãos antes das refeições e ao manusear alimentos. VI.	Ferver a água antes de beber.  </exercicio_item_romano>
+      <exercicio_enunciado>Entre essas medidas, quais seriam eficientes para evitar a amebíase e a giardíase? Por quê? </exercicio_enunciado>
+      <exercicio_enunciado>5	Udesc Analise as proposições quanto à toxoplasmose. </exercicio_enunciado>
+      <exercicio_item_romano>I.	Esta doença é causada pelo protozoário parasita intracelular Toxoplasma gondii e um dos modos de transmissão é pela ingestão de oocistos presentes nas fezes dos gatos infectados. Esses oocistos podem se prender ao pelo do gato e quando a pessoa o acaricia, os oocistos podem se aderir à mão. Caso ela não lave as mãos, e as leve à boca, pode, acidentalmente, ingerir os oocistos e se infectar. II.	As mulheres grávidas que desenvolvem esta doença podem transmiti-la ao feto. III.	Esta doença pode ser transmitida de pessoa a pessoa, pela ingestão de oocistos presentes nas fezes dos humanos infectados, isso ocorre quando a pessoa infectada faz a higiene anal, podendo contaminar as mãos, e assim transmiti-la a algum alimento, que posteriormente será ingerido por outra pessoa. IV.	Um dos modos de transmissão da toxoplasmose é pela ingestão de carnes cruas ou malpassadas, principalmente as de porco, vaca ou carneiro, quando contêm cistos de Toxoplasma gondii.  </exercicio_item_romano>
+      <item_lista>Assinale a alternativa correta.  a)	Somente as afirmativas I, II e IV são verdadeiras.  b)	Somente as afirmativas I e III são verdadeiras. c)	Somente as afirmativas II e III são verdadeiras.  d)	Somente as afirmativas II e IV são verdadeiras.  e)	Somente as afirmativas I, II e III são verdadeiras. </item_lista>
+    </boxe_20>
+    <secao_03>
+      <secao_03_titulo1>Consolidando saberes</secao_03_titulo1>
+      <exercicio_enunciado>1	FCMSCSP 2019 A figura apresenta algumas características do barbeiro, inseto relacionado à doença de Chagas. </exercicio_enunciado>
+      <secao_exercicio_numerador></secao_exercicio_numerador>
+      <imagem>
+        <Story>
+          <exercicios_linhas>&lt;ID043-Q001-2020-EM-BIO-2-L1-FA-U1-C2.png&gt;</exercicios_linhas>
+        </Story>
+      </imagem>
+      <item_lista>a)	A que Reino biológico pertence o agente etiológico da doença de Chagas? Em que órgão humano ocorre, preferencialmente, a reprodução assexuada do agente etiológico da doença? b)	Explique como a picada do inseto em pessoas saudáveis e em pessoas contaminadas permite a continuidade do ciclo de vida do agente etiológico da doença. </item_lista>
+      <exercicio_enunciado>2	UFRGS 2019 Um surto de toxoplasmose foi registrado, em 2018, na cidade de Santa Maria (RS).  </exercicio_enunciado>
+      <exercicio_item_texto>
+        Sobre a toxoplasmose, é correto afirmar que
+        <item_lista>a)	tem um caramujo de água doce como hospedeiro intermediário do verme causador da doença. b)	pode ser transmitida entre humanos por insetos hemípteros (barbeiros) que defecam ao sugar o sangue. c)	é causada por um protozoário transmitido através da ingestão de carne malcozida ou de alimentos contaminados com fezes de gatos. d)	provoca lesões de bordas avermelhadas, de difícil cicatrização, na pele e nas mucosas. e)	causa perfurações nas paredes do intestino que levam à perda de sangue e à anemia, gerando palidez, também chamada de amarelão. </item_lista>
+        <exercicio_enunciado>3	UEPG-PR 2 2019 Os protozoários compreendem um grupo de organismos unicelulares heterotróficos, que habitam os mais diversos tipos de ambientes e ainda podem apresentar relações de troca de benefícios com outros seres vivos. Sobre o assunto, assinale a opção que for incorreta. </exercicio_enunciado>
+        <item_lista>a)	A ameba é capaz de reagir a estímulos químicos por meio da emissão de pseudópodes, expansões citoplasmáticas com as quais o organismo pode aproximar-se do alimento, englobá-lo por fagocitose e digeri-lo em vacúolos digestivos. b)	A doença de Chagas é causada pelo protozoário flagelado Trypanosoma cruzi, transmitido por percevejos, conhecidos como barbeiros. Depois de picar uma pessoa, o inseto contaminado defeca e os tripanossomos podem penetrar na pele quando a pessoa coça o local, atingindo a circulação sanguínea. c)	A Leishmaniose tegumentar americana (ou úlcera de Bauru) é causada pela ingestão de cistos de Entamoeba histolytica presentes nas fezes de gatos ou em carnes cruas ou malcozidas. O doente apresenta infecções no intestino e diarreias, podendo levar à desidratação. d)	A malária é causada pelo plasmódio e transmitida pela picada da fêmea do mosquito do gênero Anopheles. O ser humano é considerado o hospedeiro intermediário (abriga a fase assexuada do parasita) e o mosquito, o hospedeiro definitivo (abriga a fase sexuada do parasita). e)	Os protozoários apresentam uma grande variedade de formas e hábitats, além de serem causadores de doenças em animais como é o caso da Doença de Chagas. </item_lista>
+        <exercicio_enunciado>4	Fcmmg 2020 Leia o texto abaixo: </exercicio_enunciado>
+        <exercicio_citado>AM registra mais de 11 mil casos de malária no primeiro bimestre de 2018 De acordo com o Ministério da Saúde, o Amazonas liderou a incidência dos casos de malária entre os estados brasileiros e concentrou maior número de casos da doença em 2017. Dos 193.876 casos de malária registrados no Brasil, 41,8% dos diagnósticos são de pessoas infectadas nos municípios amazonenses. Em 2016, foram registrados no país 129.248 casos de malária. </exercicio_citado>
+        (https://g1.globo.com/am/amazonas/noticia/am-registra-mais-de-11-mil-casos-de-malaria-no-primeiro-bimestre-de-2018-veja-cidades-com-maior-incidencia.ghtml. Acesso em 12/09/2019.) Com base nas informações e em seus conhecimentos, é CORRETO afirmar que a malária:
+        <item_lista>a)	tem como agente patológico um ectoparasito. b)	é controlada com o uso de uma vacina específica. c)	é endêmica em todo o Brasil, exceto a região Sul. d)	é transmitida por um díptero que carrega o parasito. </item_lista>
+        <exercicio_enunciado>5	Unicamp-SP 2019 A malária representa um dos principais problemas de saúde pública no mundo. Embora a dimensão geográfica da transmissão esteja encolhendo no Brasil, o país ainda registra 42% dos casos da doença nas Américas. A Fundação Oswaldo Cruz, do Rio de Janeiro, recentemente desenvolveu um preparado com alta eficácia antimalárica, agora em fase de ensaios clínicos. </exercicio_enunciado>
+        <exercicio_citado></exercicio_citado>
+        <fonte>(Fontes: &#8220;Desafios para eliminação da malária&#8221;, Agência Fapesp, 2017; MAÍRA Menezes, &#8220;Malária: ensaio clínico aponta alta eficácia e ausência de resistência a medicamento&#8221;, Portal Fiocruz,</fonte>
+        2016.)
+        <item_lista>Levando em conta seus conhecimentos sobre o ciclo de vida do Plasmodium, assinale a alternativa que indica um possível mecanismo de ação do preparado antimalárico. a)	Alterar a morfologia das hemácias dos mosquitos, diminuindo a taxa de infecção pelo parasita. b)	Impedir a entrada de parasitas nos linfócitos, reduzindo a carga de gametócitos circulantes. c)	Promover a multiplicação de esporozoítos no fígado, reduzindo o número de gametócitos. d)	Inibir a multiplicação de merozoítos nos eritrócitos, diminuindo a carga de parasitas circulantes. </item_lista>
+        <exercicio_enunciado>6	Famerp-SP 2019 A leishmaniose visceral humana é uma doença que afeta o baço e o fígado, provocando problemas imunológicos e quadros hemorrágicos. Em casos mais graves, pode causar a morte. Uma pessoa pode adquirir essa doença quando </exercicio_enunciado>
+        <item_lista>a)	é picada por fêmeas do mosquito Lutzomyia sp. b)	entra em contato com fezes contaminadas de percevejos. c)	nada em águas contaminadas com cercárias. d)	anda descalça em solos úmidos com larvas de vermes. e)	ingere verduras contaminadas com ovos de parasitas.</item_lista>
+        <exercicio_citado>7	UFSC 2018 Em 2016, houve o registro de dois casos em Santa Catarina de leishmaniose visceral humana, de pessoas que contraíram a doença em outros estados. O primeiro caso autóctone de leishmaniose visceral humana em Santa Catarina foi confirmado no dia 16 de agosto de 2017 pelo Laboratório Central de Saúde Pública de Santa Catarina (LACEN). Trata-se de um homem de 53 anos, morador de Florianópolis.  O cão, por ser um animal doméstico e intimamente próximo ao ser humano, representa um risco à saúde pública quando doente. Até maio deste ano, Florianópolis havia identificado 17 cães com diagnóstico positivo para leishmaniose visceral, resultando em cinco eutanasiados, conforme informações do Centro de Controle de Zoonoses municipal.  </exercicio_citado>
+        <fonte>Disponível em: &lt;http://www.dive.sc.gov.br/index.php/arquivo-noticias/579-dive-sc-orienta-sobre-medidas-de-da-leishmaniose-visceral&gt;. [Adaptado]. Acesso em: 26 ago. 2</fonte>
+        017. Sobre a leishmaniose visceral, é correto afirmar que: 01.	os cães representam um risco à saúde pública quando doentes, pois transmitem a
+        <caracter_negrito>leishmaniose</caracter_negrito>
+        visceral aos seres humanos. 02.	a leishmaniose visceral é causada pelo vírus Leishmaniose chagasi. 04.	em áreas com transmissão de leishmaniose, indica-se a utilização de coleiras repelentes de insetos nos cães. 08.	deve-se ter cuidado ao descartar os resíduos domésticos, a fim de não favorecer o crescimento populacional de mosquitos transmissores de doenças como a leishmaniose, a dengue e a zika. 16.	nas áreas com casos confirmados de
+        <caracter_negrito>leishmaniose</caracter_negrito>
+        visceral canina, deve-se realizar a eutanásia em todos os cães da região. 32.	considerando que a forma de transmissão da leishmaniose visceral é igual à forma de transmissão da larva do bicho-geográfico (Ancylostoma brasiliensis), devem-se evitar cães em praias e em parques infantis que contenham áreas com areia. Soma:
+        <exercicio_enunciado>8	Unesp 2018 Uma pesquisa realizada com a participação de um &#8220;robô cientista&#8221; de inteligência artificial descobriu que o triclosan, um ingrediente comum nas pastas de dente, pode ser desenvolvido para combater cepas da malária resistentes a medicamentos. O triclosan indicou ter potencial para interromper infecções da malária em dois estágios críticos, no fígado e no sangue, pela inibição da enzima do parasita chamada DHFR, envolvida na síntese dos ácidos nucleicos (DNA e RNA). </exercicio_enunciado>
+        <fonte></fonte>
+        (https://oglobo.globo.com. Adaptado.) Como medicamento, o triclosan teria o potencial de interromper
+        <item_lista>a)	o rompimento das células do fígado, que libera toxinas e causa febre. b)	a reprodução assexuada do parasita no interior das hemácias. c)	a invasão das células do fígado por esporos do parasita. d)	a produção de gametas do parasita, por mitose, no interior das hemácias. e)	a reprodução sexuada do parasita no interior dos leucócitos.</item_lista>
+        <exercicio_enunciado>9	Unicid-SP 2019 O Toxoplasma gondii afeta diversas espécies de aves e mamíferos. Os gatos e outros felinos são hospedeiros definitivos desse parasito, que invade uma ampla variedade de células nucleadas. Em roedores contaminados com o T. gondii, observam-se comportamentos de risco, nos quais os animais deixam de evitar encontros com seus predadores felinos. O protozoário pode atingir os seres humanos, e uma mulher grávida contaminada pode transmitir o parasito ao seu feto por via placentária, podendo causar cegueira, distúrbios neurológicos e até morte fetal. </exercicio_enunciado>
+        <item_lista>
+          <exercicio_enunciado></exercicio_enunciado>
+          a)	Considerando o ciclo reprodutivo do T. gondii, por que os gatos são considerados hospedeiros definitivos? Qual a vantagem para o T. gondii em causar comportamentos de risco aos roedores? b)	Como ocorre a transmissão de T. gondii aos seres humanos? Em uma mulher grávida, como o parasito chega à circulação fetal após atravessar a barreira placentária?
+        </item_lista>
+        <exercicio_enunciado>10	Unicamp-SP A malária é a principal parasitose dos países tropicais. Segundo a Organização Mundial da Saúde, há mais de 200 milhões de casos de malária a cada ano e 500 mil deles ocorrem no Brasil. Até hoje, a principal forma de combate à malária consiste no controle do vetor de seu agente etiológico. No entanto, em estudo publicado na revista Science em setembro de 2011, cientistas anunciaram que vacinas produzidas a partir de células inteiras do agente causador da malária, depois de submetidas a uma dose letal de radiação γ, deram bons resultados em estudos preliminares realizados inclusive com humanos. </exercicio_enunciado>
+        <exercicio_enunciado></exercicio_enunciado>
+      </exercicio_item_texto>
+      <item_lista>a)	Qual é o agente causador da malária? E qual é o seu vetor? b)	Qual é a importância do tratamento das células dos agentes causadores da malária com dosagem letal de radiação? Como células mortas podem agir como vacina?</item_lista>
+    </secao_03>
+    <secao_04>
+      S
+      <secao_04_titulo1>uperação</secao_04_titulo1>
+      <exercicio_enunciado>1	FMJ-SP 2015 Caso um mosquito não infectado pique uma pessoa infectada, ele fica infectado e pode depois transmitir a malária a outras pessoas não infectadas. Em geral, dez dias a seis semanas após uma pessoa ter sido infectada aparecem os sintomas da malária, como febre alta e tremores. A malária causada pelas bactérias Plasmodium vivax, P. ovale e P. malariae provoca destruição dos glóbulos vermelhos pelos parasitas, em intervalos específicos. Uma vez diagnosticada, o médico deve receitar medicamentos específicos o mais rápido possível, para evitar complicações.  </exercicio_enunciado>
+      <secao_exercicio_item></secao_exercicio_item>
+      (Guia Veja de Medicina e Saúde, 2008. Adaptado.)
+      <item_lista>a)	Do ponto de vista biológico, o texto apresenta uma informação incorreta. Identifique esse erro e faça a devida correção. b)	Pesquisadores decifraram o genoma do mosquito Anopheles darlingi (transmissor da malária no Brasil) e isso levou à descoberta de genes envolvidos com o sistema sensorial e outros que codificam proteínas nas glândulas salivares. </item_lista>
+      (www.bv.fapesp.br) Explique por que essas duas descobertas podem abrir precedentes para reduzir a transmissão da malária.
+    </secao_04>
+    <secao_05>
+      <secao_05_titulo1>No Enem é assim</secao_05_titulo1>
+      <secao_05_texto>As questões selecionadas nesta seção são prioritariamente do Enem, mas questões de vestibulares diversos que apresentam características semelhantes aos itens do referido exame também podem ser usadas como recurso para estudo.</secao_05_texto>
+      <exercicio_enunciado>1	Udesc Assinale a alternativa correta quanto aos protozoários.  </exercicio_enunciado>
+      <secao_exercicio_numerador>
+        <item_lista>a)	Os protozoários de água doce possuem vacúolos pulsáteis ou contráteis, que permitem a digestão através da clasmocitose.  b)	As amebas são protozoários do filo Sarcodina e se movimentam por meio de cílios.  c)	Os protozoários são unicelulares, eucariontes e heterotróficos. Vivem na água ou no solo, livres ou em associações com outros seres vivos. Sua digestão é intracelular.  d)	A reprodução assexuada das amebas ocorre por esquizogonia, originando duas células-filhas.  e)	Os paramécios são protozoários do filo Mastigophora e se locomovem por meio de cílios. </item_lista>
+        <exercicio_enunciado>2	Todos os animais devem resolver os mesmos problemas de existência &#8211; procura de alimento e de oxigênio, manutenção de equilíbrio hídrico e salino, remoção de detritos metabólicos e perpetuação da espécie. O &#8220;design&#8221; de corpo necessário para responder a esses problemas está correlacionado, em grande parte, a quatro fatores: 1. o tipo de ambiente &#8211; marinho, de água doce ou terrestre &#8211; no qual o animal vive; 2. o tamanho do animal; 3. o modo de existência do animal; e 4. as restrições do genoma do animal. A última frase refere-se às limitações impostas pelo &#8220;design&#8221; ancestral controlado pela composição genética do animal. Por exemplo, ocorre uma diversidade incrível no &#8220;design&#8221; do caramujo, mas o próprio &#8220;design&#8221; impõe determinadas limitações nas possibilidades do mesmo; por exemplo, não há caramujos voadores. </exercicio_enunciado>
+        Ruppert, E. E.; Barnes, R. D. Zoologia dos invertebrados. 6. ed. São Paulo: Roca, 1996.  Levando em conta os protozoários, seres eucariontes unicelulares, e sua sobrevivência, é correto afirmar que:
+        <item_lista>a)	as células dos animais são mais complexas que as células dos protozoários, pois são seres superiores e mais evoluídos. b)	as células dos protozoários são mais complexas que as células dos animais, pois devem ter estruturas responsáveis por realizar todas as funções vitais. c)	as células dos animais e dos protozoários são iguais em níveis de complexidade, pois são células eucariontes. d)	as células dos animais e dos protozoários são iguais em níveis de complexidade, já que os protozoários são os ancestrais dos animais.  e)	as células dos animais são mais complexas que as células dos protozoários, pois todas elas são especializadas para realizarem todas as funções vitais. </item_lista>
+        <exercicio_enunciado>3	Enem A doença de Chagas afeta mais de oito milhões de brasileiros, sendo comum em áreas rurais.  É uma doença causada pelo protozoário Trypanosoma cruzi e transmitida por insetos conhecidos como barbeiros ou chupanças. Uma ação do homem sobre o meio ambiente que tem contribuído para o aumento dessa doença é  </exercicio_enunciado>
+        <item_lista>a)	o consumo de carnes de animais silvestres que são hospedeiros do vetor da doença. b)	a utilização de adubos químicos na agricultura que aceleram o ciclo reprodutivo do barbeiro. c)	a ausência de saneamento básico que favorece a proliferação do protozoário em regiões habitadas por humanos. d)	a poluição dos rios e lagos com pesticidas que exterminam o predador das larvas do inseto transmissor da doença. e)	o desmatamento que provoca a migração ou o desaparecimento dos animais silvestres dos quais o barbeiro se alimenta. </item_lista>
+        <exercicio_enunciado>4	Famerp-SP 2017 Estima-se que, no Brasil, mais de  2 milhões de pessoas sofram da doença de Chagas, sobretudo na região Norte. A transmissão dessa doença ocorre quando as fezes contaminadas do barbeiro entram em contato com mucosas ou escoriações na pele, mas também pode ocorrer por meio </exercicio_enunciado>
+        <item_lista>a)	da transfusão sanguínea e da ingestão de leite materno. b)	da picada de mosquitos e da ingestão de açaí in natura. c)	do contato direto com gotículas de saliva e da ingestão de leite materno. d)	do contato direto com gotículas de saliva e da ingestão de açaí in natura. e)	da transfusão sanguínea e da picada de mosquitos. </item_lista>
+        <exercicio_enunciado>5	Unesp 2021 Algumas doenças parasitárias humanas são frutos da nossa coevolução com endoparasitas e artrópodes  hematófagos. Por meio da picada na pele, esses invertebrados se alimentam de sangue e possibilitam a continuidade do ciclo de vida dos endoparasitas. A picada causa inchaço, vermelhidão e irritação na pele, processos inflamatórios decorrentes da lesão e da injeção de substâncias provenientes das glândulas salivares do artrópode. A grande maioria dessas doenças é transmitida durante a picada. No entanto, a irritação da pele, posterior à picada, é uma reação fisiológica fundamental para a transmissão da </exercicio_enunciado>
+        <item_lista>a)	febre amarela. b)	filariose. c)	febre maculosa. d)	doença de Chagas. e)	malária. </item_lista>
+      </secao_exercicio_numerador>
+    </secao_05>
+  </texto_geral>
+</Root>

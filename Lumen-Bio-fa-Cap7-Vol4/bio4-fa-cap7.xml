@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  <texto_geral>
+    <titulo_cap_texto>Anelídeos e moluscos</titulo_cap_texto>
+    <imagem>
+      <exercicios_linhas>&lt;ID002-F002-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>O molusco marinho (à esquerda) pode medir entre 5 e 10 cm e o anelídeo marinho (à direita) chega a atingir até 40 cm de comprimento.</legenda>
+    <credito>blue-sea.cz/Shutterstock.com</credito>
+    <texto_geral>Ao observarmos a imagem, notamos significativas diferenças entre os membros dos filos Annelida e Mollusca. Os dois grupos que serão estudados neste capítulo apresentam uma grande variedade de estruturas e formas corporais que caracterizam a variedade de adaptações aos diferentes hábitats e modos de vida destes animais. O desenvolvimento embrionário destes dois filos é bastante similar, moluscos e anelídeos apresentam estruturas fisiológicas que desempenham funções parecidas. Esses animais têm grande importância para os seres humanos, desde aplicações na saúde pública até de ordem socioeconômica. Membros destes filos são usados como bioindicadores de poluição; participam do ciclo de vida de parasitas ou são ectoparasitas; têm valor comercial, como as ostras, escargot, lulas e polvos; e minhocas que podem contribuir para a fertilidade do solo, aumentando a produtividade da agricultura.</texto_geral>
+    <texto_bullets>&#8226;	Compare as estruturas corporais dos anelídeos e dos moluscos. &#8226;	Do que é feita e qual a função da concha dos moluscos? &#8226;	De que modo as minhocas se reproduzem?</texto_bullets>
+    <texto_geral>Neste capítulo será abordada a habilidade EM13CNT202. </texto_geral>
+    <titulo1>Filo Annelida</titulo1>
+    <texto_geral>Lamarck foi um dos cientistas que se dedicaram ao estudo do filo Annelida. Em 1802, foi ele quem descreveu as características deste táxon e o diferenciou dos &#8220;vermes&#8221;, representados por membros dos filos platelmintos e nematelmintos, estudados na unidade anterior. Os anelídeos ocupam, praticamente, todos os ambientes em que a disponibilidade de água seja suficiente para sua sobrevivência, visto que são organismos sensíveis à desidratação. Evolutivamente, a distribuição dos anelídeos pelos ambientes aquáticos e terrestre úmido parece ser explicada pela combinação de variedades de estratégias alimentares, podendo haver representantes de hábitos parasitas, comensais ou mutualísticos, com a plasticidade da estrutura corporal que, além do aspecto vermiforme, da presença de três folhetos embrionários e celoma, mostra-se também segmentada. As espécies mais conhecidas deste filo são as minhocas, as sanguessugas e os poliquetas. </texto_geral>
+    <titulo2>Estrutura geral</titulo2>
+    <texto_geral>
+      Uma das principais novidades evolutivas apresentadas pelos anelídeos é a presença de um corpo vermiforme cilíndrico e segmentado. Essa segmentação, também conhecida como metamerização, é associada ao desenvolvimento de uma homologia seriada que possibilita, na maioria desses animais, que os segmentos sejam praticamente idênticos, fenômeno conhecido por metameria homônima. No corpo dos anelídeos a segmentação é evidente tanto na morfologia externa quanto na interna, graças à presença de septos que separam os metâmeros (ou anéis), que modificam o celoma e a disposição interna dos órgãos do animal. Em cada metâmero podem ser encontrados apêndices não articulados compostos de quitina &#8211; as
+      <caracter_negrito>cerdas</caracter_negrito>
+      &#8211; que auxiliam na locomoção dos anelídeos. Nos poliquetas, são encontrados
+      <caracter_negrito>parapódios</caracter_negrito>
+      , estruturas que abrigam feixes de cerdas quitinosas e contribuem nas trocas gasosas e na proteção do animal.  De modo geral, o corpo de um anelídeo pode ser dividido em três regiões: cabeça, corpo segmentado e pigídio (ânus). A estrutura da cabeça é simples e pode abrigar antenas. O corpo do animal é recoberto por uma fina cutícula responsável pela impermeabilização.
+    </texto_geral>
+    <titulo2>Fisiologia</titulo2>
+    <texto_geral>A presença de celoma totalmente revestido pela mesoderme contribui com a locomoção, pois mantém a pressão hidrostática em cada segmento. Graças a essa propriedade, com a contração muscular o corpo pode se dobrar sem se deformar. Além disso, o celoma possibilitou a diversificação da cavidade corpórea, influenciando na fisiologia e no sucesso adaptativo dos anelídeos aos diversos tipos de hábitats. </texto_geral>
+    <titulo3>Sistema digestório</titulo3>
+    <texto_geral>
+      O sistema digestório dos anelídeos é
+      <caracter_negrito>com</caracter_negrito>
+      <caracter_negrito>pleto</caracter_negrito>
+      e dotado de várias glândulas acessórias, como as glândulas produtoras de veneno, as esofágicas e as produtoras de muco. Uma vez que os anelídeos apresentam hábitos alimentares bastante diversos, as estruturas anexas podem variar.  Em geral, os anelídeos podem ser predadores, depositívoros &#8211; ingerindo substrato e digerindo matéria orgânica &#8211; ou suspensívoros &#8211; seleção de partículas com a geração de correntes de água. Nos anelídeos depositívoros, algumas porções do trato digestório são especializadas no armazenamento de substâncias, como o
+      <caracter_negrito>papo</caracter_negrito>
+      , ou fazem a digestão mecânica das partículas, como a
+      <caracter_negrito>moela</caracter_negrito>
+      .
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID004-I002-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>
+      BRUSCA, R. C.
+      <caracter_italico>Invertebrados</caracter_italico>
+      . 3. ed. Rio de Janeiro: Guanabara Koogan, 2013.
+    </legenda>
+    <credito>Representação esquemática da anatomia geral do sistema digestório de uma minhoca.</credito>
+    <texto_geral>
+      Na porção intestinal de alguns anelídeos terrestres, está presente a
+      <caracter_negrito>tiflossole</caracter_negrito>
+      , estrutura que surge como consequência da ampliação da superfície da parede intestinal e que, portanto, garante maior superfície de contato para a absorção de nutrientes.
+    </texto_geral>
+    <titulo2>Sistema circulatório</titulo2>
+    <texto_geral>
+      Diferentemente dos platelmintos e nematelmintos, os anelídeos podem atingir alguns metros de comprimento, o que é consequência da eficiência na distribuição de nutrientes e nas trocas gasosas que ocorrem pelo corpo do animal.  Nesse filo, o sistema circulatório é
+      <caracter_negrito>fechado</caracter_negrito>
+      e existem dois vasos principais: um dorsal e outro ventral. Alguns vasos se contraem ritmicamente e garantem o fluxo sanguíneo, sendo chamados de corações laterais. O sangue dos anelídeos é dotado de pigmentos respiratórios que variam de acordo com o modo de vida apresentado pelo animal, e um desses pigmentos é a hemoglobina.
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID006-F021-2020-EM-BIO-2-L1-FA-U4-C7_B.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Representação esquemática do sistema circulatório dos anelídeos.</legenda>
+    <credito>Aldona Griskeviciene/Shutterstock.com</credito>
+    Sistema respiratório
+    <texto_geral>Ainda que a circulação possibilite o transporte de gases, a presença de estruturas especializadas, como os parapódios e brânquias, em algumas espécies, facilitam o local de ocorrência das trocas gasosas. Em muitos anelídeos essa troca ainda ocorre por difusão, por meio da pele.</texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID007-I003-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Representação da disposição dos metanefrídeos no corpo do anelídeo.</legenda>
+    <titulo2>Sistema excretor</titulo2>
+    <texto_geral>
+      Distribuídos em pares e em cada segmento do corpo dos anelídeos estão os
+      <caracter_negrito>metanefrídeos</caracter_negrito>
+      , que são as estruturas responsáveis pela filtração e eliminação de substâncias tóxicas geradas pelo metabolismo. O tipo de excreta eliminado pelo anelídeo tem relação com o hábitat em que vive. Por exemplo, em exemplares aquáticos a amônia é o principal produto nitrogenado a ser eliminado, enquanto os representantes terrestres tendem a eliminar ureia. Esses dois compostos nitrogenados (amônia e ureia) são retirados do celoma pela porção ciliada dos metanefrídeos, conhecida como nefróstoma, e eliminadas no ambiente pelos nefridióporos, que se abrem na superfície do corpo.
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID008-I004-2020-EM-BIO-2-L1-FA-U4-C7 copy.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Representação da disposição do sistema nervoso dos anelídeos.</legenda>
+    <titulo2>Sistema nervoso</titulo2>
+    <texto_geral>
+      A configuração do sistema nervoso dos anelídeos é também influenciada pelo aparecimento da segmentação. Por toda a extensão do corpo do animal se projetam dois cordões nervosos ventrais e um par de gânglios por segmento, a partir dos quais se projetam nervos para a musculatura circular e longitudinal dos anelídeos e demais regiões do corpo, caracterizando esse sistema como
+      <caracter_negrito>difuso</caracter_negrito>
+      . E, embora haja cefalização, os gânglios cefálicos não coordenam todas as funções do corpo dos animais. Estruturas sensoriais, como ocelos e células especializadas sensíveis à presença de luz, são encontradas em uma grande variedade de anelídeos.
+    </texto_geral>
+    <secao_01>
+      <secao_01_titulo1>Questão resolvida</secao_01_titulo1>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>
+          1
+          <caracter_negrito>UFPR</caracter_negrito>
+          Dentre as cerca de 8,5 milhões de espécies de organismos vivos presentes hoje em nosso planeta, mais de 7,5 milhões são animais. Essa enorme diferença em número parece estar vinculada à enorme flexibilidade conferida por características da arquitetura do corpo dos animais, que os tornam aptos a viver nos mais diferentes hábitats do planeta, o que certamente deve ter contribuído para a diversificação do grupo. Dentre as grandes mudanças ocorridas no processo evolutivo, podemos destacar três importantes: aquisição da multicelularidade, aquisição do trato digestivo e aquisição de segmentação corporal. Apresente uma consequência favorável que cada uma dessas mudanças trouxe aos organismos.
+        </secao_exercicio_numerador>
+      </exercicio_enunciado>
+      <exercicio_resolvido>Resolução: Aquisição de multicelularidade: além de afetar, significativamente, o tamanho do corpo do animal, também influencia na especialização das células para a execução de diferentes atividades. Aquisição de trato digestório: capacita o animal a absorver nutrientes e digerir os nutrientes por um longo período. Aquisição de segmentação corporal: além de favorecer na especialização corpórea, a segmentação corporal em muito influencia na capacidade e forma de locomoção dos animais.</exercicio_resolvido>
+    </secao_01>
+    <titulo2>Classificação</titulo2>
+    <texto_geral>Tradicionalmente, os anelídeos são classificados em três classes: Polychaeta, Oligochaeta e Hirudinea. Todavia, pesquisas recentes indicam que os anelídeos sejam agrupados em duas classes principais: Polychaeta e Clitellata. Esta nova classificação taxonômica reconhece que os grupos Oligochaeta e Hirudinea apresentam um ancestral comum e exclusivo, por isso são organizados nesta nova classe. </texto_geral>
+    <titulo2>Classe Polychaeta</titulo2>
+    <texto_geral>
+      Comum em ambientes aquáticos marinhos, os poliquetas, como são conhecidos os membros da classe Polychaeta (do latim
+      <caracter_italico>poli</caracter_italico>
+      e
+      <caracter_italico>chaeta</caracter_italico>
+      , que significam, respectivamente, &#8220;muitas&#8221; e &#8220;cerdas&#8221;), também podem ser encontrados em água doce e, raramente,  em ambiente terrestre úmido. Esses anelídeos se mostram bastante diversificados e assumem formas de vida livre ou sésseis.
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID009-F003-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Poliqueta marinho séssil que atinge entre 2-3 cm de comprimento.</legenda>
+    <credito>cbpix/iStockphoto.com</credito>
+    <imagem>
+      <exercicios_linhas>&lt;ID010-F004-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Exemplar de poliqueta marinho de vida livre que chega a atingir alguns metros de comprimento. </legenda>
+    <credito>ultramarinfoto/iStockphoto.com</credito>
+    <titulo2>Classe Clitellata</titulo2>
+    <texto_geral>
+      Na classe Clitellata estão incluídos os grupos Oligochaeta e Hirudínea, representados pelas minhocas e sanguessugas, respectivamente. O termo &#8220;Clitellata&#8221; se refere à estrutura presente no corpo desses anelídeos, conhecida como
+      <caracter_negrito>clitelo</caracter_negrito>
+      , e que contribui para a reprodução sexuada.
+    </texto_geral>
+    <titulo3>Oligochaeta</titulo3>
+    <texto_geral>
+      Os oligoquetos, Oligochaeta (do latim
+      <caracter_italico>oligo</caracter_italico>
+      e
+      <caracter_italico>chaeta</caracter_italico>
+      ,que significam, respectivamente, &#8220;poucas&#8221; e &#8220;cerdas&#8221;),diferenciam-se dos poliquetas pela quantidade intermediária de cerdas distribuídas pelo seu corpo. Normalmente, os organismos incluídos nesse grupo ocupam o ambiente terrestre vivendo enterrados no solo úmido. Tal característica se relaciona com o hábito de vida detritívoro característico desses anelídeos.
+    </texto_geral>
+    <titulo3>Hirudínea</titulo3>
+    <texto_geral>Popularmente, os hirudíneos são conhecidos como sanguessugas e podem ser encontrados em ambientes aquático marinho, de água doce e terrestre úmido. Eles se caracterizam por serem ectoparasitas hematófagos dotados de ventosas achatadas nas regiões anterior e posterior de seus corpos. Ambas as ventosas contribuem na fixação do anelídeo ao hospedeiro, e apenas a que está disposta na região anterior auxilia na retirada do sangue.  Apesar dessa capacidade de fixação, os hirudíneos são capazes de se deslocar com o auxílio da musculatura e por meio de um movimento conhecido como mede-palmos.</texto_geral>
+    <titulo2>Reprodução</titulo2>
+    <texto_geral>A reprodução dos anelídeos é bastante diversificada entre os grupos.  Em sua maioria, os clitelados são hermafroditas. Na maioria das minhocas, o clitelo se localiza posteriormente às aberturas dos sistemas reprodutores. Durante a cópula, as minhocas se alinham em direções opostas e o clitelo as mantêm nessa posição. Nesse alinhamento, o poro genital masculino de uma minhoca se une ao receptáculo seminal de outra, e vice-versa. Após a liberação dos espermatozoides, os indivíduos se separam, e, em cada um deles, forma-se um casulo, no qual será liberado o óvulo. Esse casulo migra em direção aos receptáculos seminais, possibilitando a fecundação. Em seguida, os casulos contendo os ovos são liberados no ambiente. Após a eclosão dos ovos, os indivíduos jovens são estruturalmente semelhantes ao adulto, portanto não há estágio larval. Já os poliquetos são anelídeos dioicos que realizam a fecundação externa. O desenvolvimento é indireto, e, nesse grupo, algumas espécies são capazes de realizar reprodução assexuada.</texto_geral>
+    <titulo2>Filo Mollusca</titulo2>
+    <texto_geral>
+      A definição do termo &#8220;Mollusca&#8221; data de 1650, mas a identificação e a primeira classificação foram realizadas por Aristóteles muito tempo antes. O nome, por sua vez, só passou a ser aceito após a classificação realizada por Lineu, quase cem anos depois de ter sido cunhado. O filo Mollusca (do latim
+      <caracter_italico>molluscus</caracter_italico>
+      , que significa &#8220;mole&#8221;) compreende o segundo maior grupo de animais em número de espécies, ficando atrás somente do grupo dos artrópodes. Esse grupo de animais ocupa uma imensa diversidade de hábitats, sendo encontrados em ambientes aquáticos marinhos e de água doce e também ambientes terrestres úmidos. As classes incluem animais dotados de corpo mole e, por vezes, contendo uma concha calcária. Ao longo deste capítulo vamos estudar as classes Gastropoda, Cephalopoda e Bivalvia.
+    </texto_geral>
+    <titulo2>Estrutura geral</titulo2>
+    <texto_geral>
+      Os moluscos são animais triblásticos, protostômios e celomados, sendo a cavidade celomática reduzida e restrita a algumas regiões do corpo do animal próximas, por exemplo, aos metanefrídeos, gônadas e coração; neste caso, recebendo o nome de cavidade pericárdia. A cavidade principal do corpo dos moluscos recebe o nome de
+      <caracter_negrito>hemocele</caracter_negrito>
+      e é responsável por garantir a circulação e distribuição de substâncias para todo organismo. O corpo dos moluscos é dividido em três regiões: cabeça, massa visceral e pé. Na cabeça, encontram-se estruturas sensoriais, tais como olhos, tentáculos ou estruturas quimiossensoriais, importantes para garantir a percepção do ambiente. O pé dos moluscos é, geralmente, volumoso e constituído por um conjunto de músculos fixados à concha e ao manto. Na região ventral do pé, pode haver glândulas secretoras de muco, importantes para diminuir o atrito e facilitar o deslocamento dos animais sobre uma superfície rugosa Na massa visceral estão os órgãos e uma região denominada
+      <caracter_negrito>manto</caracter_negrito>
+      ou
+      <caracter_negrito>pálio</caracter_negrito>
+      &#8211; uma espécie de película que recobre toda a massa visceral e é responsável pela proteção dos órgãos, organização e pela secreção do esqueleto calcário e formação da
+      <caracter_negrito>concha</caracter_negrito>
+      .
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID015-I006-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Representação esquemática do plano corpóreo de um molusco ancestral, mostrando as principais estruturas internas.</legenda>
+    <texto_geral>
+      A concha é constituída de três camadas: a camada mais externa, ou
+      <caracter_negrito>perióstraco</caracter_negrito>
+      ,  composta de proteínas chamadas de colchiolina; a camada prismática formada, majoritariamente, de carbonato de cálcio secretado pelo manto, e, mais internamente, a camada nacarada, formada por nácar calcário (madrepérola).
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID016-I007-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>Representação esquemática das camadas de uma concha. </credito>
+    <titulo3>Fisiologia</titulo3>
+    <texto_geral>A diversidade de estruturas e sistemas fisiológicos dos moluscos possibilitaram as adaptações destes animais aos diversos ambientes em que vivem. Acredita-se que os primeiros moluscos teriam habitado os substratos bentônicos dos oceanos e que a presença do pé seria uma característica que possibilitou a locomoção desses animais sobre o apoio do substrato. Mais tarde, estruturas especializadas em jato-propulsão possibilitaram a natação livre na coluna d&#8217;água e independência do substrato.</texto_geral>
+    <titulo3>Sistema digestório</titulo3>
+    <texto_geral>
+      Os moluscos se alimentam de pequenas ou grandes partículas disponíveis no ambiente. A grande maioria obtém os nutrientes com o auxílio da
+      <caracter_negrito>rádula</caracter_negrito>
+      , uma espécie de língua raspadora. Em algumas espécies estão presentes mandíbulas capazes de capturar as presas; nesse caso, a boca dá acesso à cavidade oral interna, a qual pode conter a rádula. O sistema digestório é
+      <caracter_negrito>completo</caracter_negrito>
+      , e o ânus se localiza na cavidade do manto ou próximo ao fluxo de água exalante. A digestão dos moluscos é extra e intracelular, sendo iniciada no compartimento estomacal e auxiliada por glândulas digestivas dispostas ao longo do trato digestório.
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID021-I008-2020-EM-BIO-2A-L1-FA-U4-C7edt.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>Representação esquemática do sistema digestório dos moluscos.</credito>
+    <titulo3>Sistema circulatório</titulo3>
+    <texto_geral>
+      O sistema circulatório dos moluscos é
+      <caracter_negrito>aberto</caracter_negrito>
+      e conta com um coração composto de três cavidades, sendo dois átrios e um ventrículo, vasos sanguíneos e hemolinfa, o líquido circulante.  Os nutrientes absorvidos são distribuídos para os demais tecidos através do fluxo da hemolinfa, a qual também contribui na realização de trocas gasosas devido à presença de pigmentos transportadores de gases, como a hemocianina. A principal exceção de moluscos que não apresentam sistema circulatório aberto são os cefalópodes, cujo sistema circulatório é fechado. Como o sangue dos cefalópodes não deixa os vasos sanguíneos, há maior eficiência nas trocas gasosas e distribuição de nutrientes.
+    </texto_geral>
+    <titulo3>Sistema respiratório</titulo3>
+    <tabela_texto_geral>
+      Na maioria dos moluscos, as trocas gasosas ocorrem em estruturas branquiais dispostas na cavidade do manto conhecidas como
+      <caracter_negrito>ctenídios</caracter_negrito>
+      . Em alguns, há a dependência da superfície geral do corpo ou da região do manto para que as trocas gasosas aconteçam, e apenas os gastrópodes terrestres são dotados de estrutura pulmonar, altamente vascularizada para a ocorrência dessas trocas.
+    </tabela_texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID022-I009-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>Representação esquemática do sistema circulatório e do ctenídios dos moluscos.</credito>
+    <titulo3>Sistema excretor</titulo3>
+    <texto_geral>O sistema excretor dos moluscos é formado pelos mesmos componentes presentes nos anelídeos, isto é, metanefrídeos que filtram e reabsorvem substâncias antes de as excretas serem eliminadas no ambiente. O produto nitrogenado excretado varia entre os moluscos de acordo com o local em que vivem, sendo que, para as espécies aquáticas, é comum a eliminação de amônia e, para as terrestres, ureia. </texto_geral>
+    <titulo3>Sistema nervoso</titulo3>
+    <texto_geral>
+      De maneira geral, o sistema nervoso desse filo conta com
+      <caracter_negrito>gânglios cerebrais</caracter_negrito>
+      que se reúnem em um anel em volta do esôfago e de onde partem
+      <caracter_negrito>cordões nervosos</caracter_negrito>
+      que se arranjam em forma entrelaçada e se distribuem pela região do pé, nesse caso sendo chamados de pedais, e pelas vísceras e pelo manto, sendo então denominados viscerais.
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID023-I010-2020-EM-BIO-2-L1-FA-U4-C7_.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>Representação dos sistemas respiratório, circulatório, excretor e nervoso.</credito>
+    <titulo2>Classificação</titulo2>
+    <texto_geral>Diante da importância que alguns moluscos representam para o ecossistema e também para os seres humanos, neste tópico serão abordadas apenas três principais classes desse filo: Gastropoda, Bivalvia e Cephalopoda. </texto_geral>
+    <titulo2>Classe Gastropoda</titulo2>
+    <texto_geral>
+      A classe Gastropoda (do grego
+      <caracter_italico>gaster</caracter_italico>
+      e
+      <caracter_italico>podos</caracter_italico>
+      , que significam, respectivamente, &#8220;pés&#8221; e &#8220;ventrais&#8221;) é considerada a mais diversa do filo. Todos os representantes apresentam grande habilidade para rastejar. Estão agrupados nessa classe os caramujos, os caracóis e as lesmas. Geralmente, o corpo dos gastrópodes é parcialmente recoberto por uma concha retraída. Entretanto, em alguns representantes, essa estrutura externa se encontra reduzida ou até mesmo ausente. Na porção da cabeça, podem ser encontrados tentáculos e a rádula, caracterizando-os como moluscos raspadores. Tradicionalmente, essa classe se divide em três subclasses: prosobrânquios, que são caramujos marinhos; opistobrânquios, representados pelas lesmas marinhas; e os pulmonados, cujos espécimes mais comuns são lesmas e caracóis terrestres. Trata-se da classe que apresenta maior variedade de formas de reprodução. Os gastrópodes podem ser dioicos ou monoicos, com fecundação interna ou externa. O desenvolvimento do embrião pode ser direto no ambiente aquático ou indireto no interior de ovos.
+    </texto_geral>
+    <boxe_11>
+      <boxe_11_titulo1>Em História, vemos que... </boxe_11_titulo1>
+      <boxe_11_texto>... em quase toda a costa brasileira, e em algumas regiões do interior, são encontradas estruturas montanhosas compostas de conchas, ossos de animais, lâminas e até esqueletos humanos, conhecidos como sambaquis. O nome deriva do tupi-guarani e significa amontoado de conchas. Essas formações representam os únicos registros da existência de um povo pré-histórico que viveu na região. Até o momento, as informações obtidas permitem caracterizar um povoado com alimentação baseada em recursos marinhos, principalmente moluscos bivalves e gastrópodes. E, apesar de pouco se saber sobre esse povo ou mesmo o que os tenha feito desaparecer, acredita-se que uma provável causa tenha sido o esgotamento de recursos naturais, principalmente os bancos de moluscos.  Além de informações sobre a cultura e o próprio povoado, a análise dos sambaquis traz muitas informações sobre as espécies de moluscos que eram encontradas naquela época.</boxe_11_texto>
+    </boxe_11>
+    <imagem>
+      <exercicios_linhas>&lt;ID019-F022-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Ilustração dos sambaquieiros e da formação do sambaqui. </legenda>
+    <credito>
+      <credito>Mariana Massarani</credito>
+    </credito>
+    <imagem>
+      <exercicios_linhas>&lt;ID020-F009-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Sambaqui em Cananéia-SP.</legenda>
+    <credito>
+      <credito>Fabio Colombini</credito>
+    </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID024-F010-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </imagem>
+      <legenda>Caramujo (cerca de 10 cm de comprimento).</legenda>
+      <credito>Brian Lasenby/Shutterstock.com</credito>
+      <Story>
+        <exercicios_linhas>&lt;ID025-F011-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </Story>
+      <legenda>Caracol (cerca de 5 cm de comprimento).</legenda>
+      <credito>Andrey Armyagov/Shutterstock.com</credito>
+      <Story>
+        <exercicios_linhas>&lt;ID026-F012-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </Story>
+      <legenda>Lesma terrestre (cerca de 10 cm de compri-mento).</legenda>
+      <credito>Thomas Shanahan/iStockphoto.com</credito>
+      <Story>
+        <exercicios_linhas>&lt;ID027-F013-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </Story>
+    </imagem>
+    <legenda>Mexilhões (cerca de 8 cm de comprimento).</legenda>
+    <credito>Reinhard Dirscherl/Alamy/Fotoarena</credito>
+    <titulo2>Classe Bivalvia</titulo2>
+    <texto_geral>
+      Os membros pertencentes à classe Bivalvia (do latim
+      <caracter_italico>bi</caracter_italico>
+      e
+      <caracter_italico>valva</caracter_italico>
+      , que significam, respectivamente, &#8220;duas&#8221; e &#8221;peças&#8221;) possuem a concha formada por duas valvas articuladas e podem ser encontrados em todos os ambientes aquáticos, marinho ou de água doce, sendo sésseis ou livre-natantes. Os principais representantes são ostras, mexilhões, vieiras, mariscos, entre outros. Esses animais contam com a cabeça reduzida e a ausência de rádula e, por isso, dependem de processos de filtração para a obtenção dos nutrientes.  Em relação à reprodução, os bivalves podem ser dioicos ou monoicos, e a fecundação pode ocorrer externa ou internamente. O desenvolvimento é indireto com a fase larval, em geral, planctônica.
+    </texto_geral>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>
+        A classe
+        <caracter_negrito>Bivalvia</caracter_negrito>
+        é de grande importância ecológica, pois, além de comporem teias e cadeias alimentares, por causa do hábito alimentar filtrador, esses animais também são usados como
+        <caracter_negrito>bioindicadores</caracter_negrito>
+        da qualidade da água.
+      </boxe_17_texto>
+    </boxe_17>
+    Classe Cephalopoda
+    <texto_geral>
+      Considerada a mais complexa do filo Mollusca, a classe Cephalopoda (do grego
+      <caracter_italico>kephale</caracter_italico>
+      e
+      <caracter_italico>pous</caracter_italico>
+      , que significam, respectivamente, &#8220;cabeça&#8221; e &#8220;pés&#8221;) é representada por lulas, polvos, náutilos e sibas, todos exclusivos de ambiente aquático marinho.  A presença da concha é variável, podendo estar ausente ou localizada na região interna ou externa do corpo do animal. Nesses moluscos, a cefalização é evidente e os pés são modificados em tentáculos que estão dispostos ao redor da boca e auxiliam, entre outras atividades, na captura de presas. Também na região cefálica, nota-se a existência de olhos grandes e complexos, semelhantes aos encontrados em vertebrados. Curiosamente, essas estruturas são capazes de formar imagens no sistema nervoso.  Esses animais desenvolveram a capacidade de se locomover de maneira rápida por jato-propulsão. Assim, contam com o auxílio de um funil, ou sifão, originado da modificação do pé que os auxilia a eliminar jatos de água. Além disso, o sistema circulatório é diferenciado em relação aos demais: são os
+      <caracter_negrito>únicos moluscos com sistema circulatório fechado</caracter_negrito>
+      .
+    </texto_geral>
+    <imagem>
+      <Story>
+        <exercicios_linhas>&lt;ID029-F015-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </Story>
+      <legenda>Polvo (tamanho pode variar de alguns centímetros até 9 metros de comprimento). </legenda>
+      <credito>TheSP4N1SH/iStockphoto.com</credito>
+      <Story>
+        <exercicios_linhas>&lt;ID030-F016-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </Story>
+      <legenda>
+        <legenda>Lula (em geral, cerca de 60 cm de comprimento).</legenda>
+      </legenda>
+      <credito>rightdx/iStockphoto.com</credito>
+      <Story>
+        <exercicios_linhas>&lt;ID031-F017-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </Story>
+    </imagem>
+    <legenda>Nautilus (cerca de 20 cm de comprimento).</legenda>
+    DiveIvanov/Shutterstock.com
+    <boxe_20>
+      <boxe_20_titulo1>Aplicando conhecimentos </boxe_20_titulo1>
+      <exercicio_enunciado>
+        1	Quais são as três partes básicas do corpo dos moluscos? 2	Qual a função da concha nos moluscos?  3	Qual é a novidade adaptativa dos anelídeos que os diferenciam dos vermes em relação à organização corporal? 4	O que são parapódios? 5	O que são ctenídios? 6	Em relação à quantidade de cerdas, explique a classificação dos anelídeos em poliquetos, oligoquetos e aquetos (hirudíneos). Dê um exemplo de animal pertencente a cada uma das classes citadas.  7
+        <caracter_negrito>Unicamp-SP 2019</caracter_negrito>
+        Organismos vivos são classificados em grupos taxonômicos, que devem preferencialmente refletir as relações de parentesco evolutivo entre as espécies.
+      </exercicio_enunciado>
+      <caracter_negrito>a)	</caracter_negrito>
+      <exercicio_item_texto>
+        <item_lista>A tabela apresentada abaixo contém características presentes em anelídeos, platelmintos e moluscos. Preen-cha corretamente todos os espaços em branco na tabela, referentes às características listadas na primeira coluna, de acordo com as opções indicadas na segunda coluna. Atenção: há duas colunas denominadas X e Y; uma representa moluscos e a outra representa platelmintos.</item_lista>
+      </exercicio_item_texto>
+      <secao_15_titulo1>
+        <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="10" aid:tcols="5">
+          <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Características</TABELA_GRAVATA1>
+          <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Opções</TABELA_GRAVATA1>
+          <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">X</TABELA_GRAVATA1>
+          <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">ANELÍDEOS</TABELA_GRAVATA1>
+          <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Y</TABELA_GRAVATA1>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Celoma</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Acelomados, Pseudocelomados ou Celomados</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Celomados</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Acelomados</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Simetria</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Radial, Pentarradial ou Bilateral</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Bilateral</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Bilateral</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Larva</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Trocófora</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Trocófora</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Tipo varia com espécie</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Sistema circulatório</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Ausente ou presente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Presente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Sistema digestório</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Incompleto ou completo (com boca e ânus)</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Completo (com boca e ânus)</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Incompleto</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Carapaça calcárea</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Ausente ou presente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Presente (algumas espécies)</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Ausente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Ausente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Eixo anteroposterior</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Indefinido, definido ou variável</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Variável</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Definido</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Segmentação</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Ausente ou presente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Ausente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Ausente</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">Exemplo de organismo (nome comum)</tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+          <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284"></tabela_texto_geral>
+        </Table>
+      </secao_15_titulo1>
+      <item_lista>
+        <caracter_negrito>a)	</caracter_negrito>
+        <item_lista>Um dos critérios para a construção do diagrama abaixo é o número de características compartilhadas entre pares de grupos taxonômicos. Preencha os retângulos em branco do diagrama com o nome de um dos dois grupos &#8211; moluscos ou platelmintos. Utilize as linhas em branco para explicar o que representa esse tipo de diagrama.</item_lista>
+      </item_lista>
+      <exercicio_item_texto></exercicio_item_texto>
+      <imagem>
+        <exercicios_linhas>&lt;anelideos.png&gt;</exercicios_linhas>
+      </imagem>
+    </boxe_20>
+    <secao_03>
+      <secao_03_titulo1>Consolidando saberes</secao_03_titulo1>
+      <exercicio_enunciado>
+        1
+        <caracter_negrito>Uece 2020</caracter_negrito>
+        O corpo dos representantes do filo Mollusca apresenta
+      </exercicio_enunciado>
+      <secao_exercicio_numerador>
+        <item_lista>
+          <caracter_negrito>a)	</caracter_negrito>
+          simetria bilateral, cabeça, pé e massa visceral.
+          <caracter_negrito>b)	</caracter_negrito>
+          simetria radial, cabeça, pé e massa visceral.
+          <caracter_negrito>c)	</caracter_negrito>
+          simetria bilateral, cabeça, pé e membros articulados.
+          <caracter_negrito>d)	</caracter_negrito>
+          simetria radial, cabeça, pé e membros articulados.
+        </item_lista>
+        <exercicio_enunciado>
+          <secao_exercicio_item></secao_exercicio_item>
+          2
+          <caracter_negrito>Famerp-SP 2019</caracter_negrito>
+          Os moluscos formam, depois dos artrópodes, o segundo maior filo dos metazoários em números de espécies. São características que ocorrem em todos os representantes dos moluscos:
+        </exercicio_enunciado>
+        <item_lista>
+          <caracter_negrito>a)	</caracter_negrito>
+          sistema nervoso dorsal e cabeça diferenciada.
+          <caracter_negrito>b)	</caracter_negrito>
+          rádula e massa visceral.
+          <caracter_negrito>c)	</caracter_negrito>
+          sistema circulatório aberto e manto.
+          <caracter_negrito>d)	</caracter_negrito>
+          simetria bilateral e mesoderme na fase embrionária.
+          <caracter_negrito>e)	</caracter_negrito>
+          sistema digestório completo e brânquias.
+        </item_lista>
+        <exercicio_enunciado>
+          <secao_exercicio_item></secao_exercicio_item>
+          3
+          <caracter_negrito>Unesp 2019</caracter_negrito>
+          Os microplásticos representam aproximadamente 92,4% da contagem global de partículas delixo plástico. Estes pequenos plásticos de até 5 mm detamanho estão entrando no ambiente marinho, contaminando um sistema já vulnerável.
+        </exercicio_enunciado>
+        <fonte>(www.arocha.org. Adaptado.) </fonte>
+        <secao_exercicio_item>
+          Os mexilhões estão entre os invertebrados marinhos diretamente afetados pela presença de partículas de microplásticos nas águas, uma vez que, para se alimentarem,
+          <item_lista>
+            <caracter_negrito>a)	</caracter_negrito>
+            capturam micropartículas batendo os flagelos dos coanócitos.
+            <caracter_negrito>b)	</caracter_negrito>
+            raspam com a rádula a superfície do substrato marinho.
+            <caracter_negrito>c)	</caracter_negrito>
+            trituram com dentes calcários outros animais menores.
+            <caracter_negrito>d)	</caracter_negrito>
+            filtram partículas de alimento na água circundante.
+            <caracter_negrito>e)	</caracter_negrito>
+            circulam a água pelos canais do sistema ambulacrário.
+          </item_lista>
+        </secao_exercicio_item>
+        <exercicio_enunciado>
+          4
+          <caracter_negrito>Unicamp-SP 2019</caracter_negrito>
+          Nos quadrinhos a seguir, o personagem Garfield questiona a relevância do animal representado à direita.
+        </exercicio_enunciado>
+      </secao_exercicio_numerador>
+      <imagem>
+        <exercicios_linhas>&lt;ID038-Q002-2020-EM-BIO-2-L1-FA-U4-C7.png&gt;</exercicios_linhas>
+      </imagem>
+      <legenda>(Disponível em http://www.aprendocomopenomato.wordpress.com/.)</legenda>
+      Assinale a alternativa que descreve corretamente aspectos zoológicos e ecológicos referentes a esse animal.
+      <item_lista>
+        <caracter_negrito>a)	</caracter_negrito>
+        As minhocas são invertebrados do filo dos anelídeos, possuem corpo celomado e segmentado, convertem detritos ingeridos em matéria orgânica e melhoram o arejamento do solo.
+        <caracter_negrito>b)	</caracter_negrito>
+        As cobras-cegas são vertebrados do filo dos anelídeos, possuem corpo pseudocelomado e reprodução sexuada, são predadoras de pragas agrícolas e melhoram o arejamento do solo.
+        <caracter_negrito>c)	</caracter_negrito>
+        As cobras-cegas são invertebrados do filo dos cordados, possuem corpo celomado e não segmentado e são capazes de controlar ervas daninhas, pois consomem suas raízes.
+        <caracter_negrito>d)	</caracter_negrito>
+        As minhocas são invertebrados do filo dos anelídeos, possuem pseudoceloma e reprodução assexuada, são predadoras de pragas agrícolas e melhoram o arejamento do solo.
+      </item_lista>
+      <exercicio_enunciado>
+        5
+        <caracter_negrito>Uerj 2017</caracter_negrito>
+        Esponjas e mexilhões podem ser considerados bioindicadores, uma vez que a análise de seus tecidos revela a concentração de poluentes na água. Isso ocorre, pois, no meio aquático, esses animais são caracterizados, em sua maioria, como:
+      </exercicio_enunciado>
+      <item_lista>
+        <caracter_negrito>a)	</caracter_negrito>
+        filtradores.
+        <caracter_negrito>b)	</caracter_negrito>
+        raspadores.
+        <caracter_negrito>c)	</caracter_negrito>
+        predadores.
+        <caracter_negrito>d)	</caracter_negrito>
+        decompositores.
+      </item_lista>
+      <item_lista></item_lista>
+    </secao_03>
+    <secao_04>
+      <secao_04_titulo1>Superação</secao_04_titulo1>
+      <exercicio_enunciado>
+        1
+        <caracter_negrito>UFPR 2018</caracter_negrito>
+        Animais são eucarióticos, multicelulares e heterotróficos, mas nem todos têm tecidos verdadeiros ou cavidade digestória. Embora não esteja presente em todos os animais, muitos possuem, além da cavidade digestória, uma cavidade celomática ocupada pelos órgãos internos.
+      </exercicio_enunciado>
+      <secao_exercicio_numerador></secao_exercicio_numerador>
+      <item_lista>
+        <caracter_negrito>a)	</caracter_negrito>
+        <secao_exercicio_item>
+          <item_lista>Considerando a formação de gástrula, de cavidade digestória e de tecidos verdadeiros, explique por que as esponjas podem ser classificadas como parazoários.</item_lista>
+          <caracter_negrito>b)	</caracter_negrito>
+          <item_lista>Os platelmintos são acelomados, de modo que a única cavidade corporal é o tubo digestivo. Explique qual é a estratégia desse grupo de animais para distribuir oxigênio e nutrientes para todas as células do corpo.</item_lista>
+          <caracter_negrito>c)	</caracter_negrito>
+        </secao_exercicio_item>
+      </item_lista>
+      <item_lista>
+        Considerando que nematódeos e anelídeos são, respectivamente, pseudocelomados e celomados, explique o que é e qual a importância do esqueleto hidrostático presente nesses grupos.
+        <item_lista></item_lista>
+      </item_lista>
+    </secao_04>
+  </texto_geral>
+</Root>
